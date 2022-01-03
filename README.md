@@ -88,7 +88,7 @@ Input file: in.txt
 Result:
 
 ```
-pons@linpons:~/BSGS$ ./bsgs in.txt 
+bsgs.exe in.txt 
 BSGS v1.0
 BabyStep:0x40000000 (2^30.00)
 Start:49DCCFD96DC5DF56487436F5A1B18C4F5D34F65DDB48CB5E0000000000000000
