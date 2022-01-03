@@ -1,6 +1,7 @@
 # Baby Step Giant Step for SECPK1
 
-A simple Baby Step Giant Step program for SecpK1.
+A simple Baby Step Giant Step program for SecpK1.</br>
+Forked from [BSGS](https://github.com/Mezantrop74/BSGS)
 
 Structure of the input file:
 * All values are in hex format
